@@ -861,6 +861,7 @@ html {
     border-radius: 2px;
     margin-top: 4px;
     box-shadow: 0 0 3px #c0bdbd;
+    z-index: 1;
 }
 
 .search-history__title {
